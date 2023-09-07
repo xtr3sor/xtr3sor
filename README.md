@@ -4,7 +4,7 @@ I'm Flavio Bosco, aka tr3sor. A software developer from Argentina 🇦🇷
 
 I've started writing code being a kid, playing with languages like c++, asm, php, js and html. I never stoped and I love it.
 
-Today, I'm working at @PhishFort (proudly), a company that provides AntiPhishing and Brand Protection Solutions, making awesome stuff against the bad actors of the internet.
+Today, I'm (proudly) working at @PhishFort , a company that provides AntiPhishing and Brand Protection Solutions, making awesome stuff against the bad actors of the internet.
 
 <!--
 **xtr3sor/xtr3sor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
