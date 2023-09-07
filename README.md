@@ -6,6 +6,9 @@ I've started writing code being a kid, playing with languages like c++, asm, php
 
 Today, I'm (proudly) working at @PhishFort , a company that provides AntiPhishing and Brand Protection Solutions, making awesome stuff against the bad actors of the internet.
 
+If you want to contact me, you can reach me out at `tr3sor [at] pm [.] me`
+
+Thanks for read this!
 <!--
 **xtr3sor/xtr3sor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
