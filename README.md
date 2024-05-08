@@ -8,5 +8,4 @@ Today, I'm (proudly) working at @PhishFort, a company that provides AntiPhishing
 
 If you would like to contact me, you can write at `tr3sor [at] pm [.] me`
 
-Thanks for read this, glhf! :D
 
