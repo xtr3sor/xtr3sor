@@ -15,11 +15,10 @@ challenge of finding efficient solutions where others see a dead end.
 
 [ /contact ]
 -------------------------------------------------------------------------------
-Location:    Buenos Aires, Argentina
 Email:       tr3sor@pm.me
-GitHub:      https://github.com/xtr3sor
-LinkedIn:    https://www.linkedin.com/in/tr3sor
 Website:     https://www.tr3sor.win
+LinkedIn:    https://www.linkedin.com/in/tr3sor
+
 
 [ /techstack ]
 -------------------------------------------------------------------------------
