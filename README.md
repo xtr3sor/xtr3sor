@@ -16,7 +16,9 @@ challenge of finding efficient solutions where others see a dead end.
 [ /contact ]
 -------------------------------------------------------------------------------
 Email:       tr3sor@pm.me
+
 Website:     https://www.tr3sor.win
+
 LinkedIn:    https://www.linkedin.com/in/tr3sor
 
 
