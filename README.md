@@ -20,13 +20,3 @@ Email:       tr3sor@pm.me
 Website:     https://www.tr3sor.win
 
 LinkedIn:    https://www.linkedin.com/in/tr3sor
-
-
-[ /techstack ]
--------------------------------------------------------------------------------
-* Cloud & Infra:  Cloudflare, AWS, GCP, Vercel, Containers.
-* Databases:      MSSQL, MySQL, MongoDB, PostgreSQL (Junior).
-* Languages:      JavaScript (Node/React), TypeScript, PHP, C++, ASM.
-* Emerging Tech:  Rust (Junior/Basic).
-* Security:       Anti-Phishing, Threat Intel, OSINT, Brand Protection.
-* Tools:          Git, GitHub, CI/CD Pipelines, Linux CLI.
