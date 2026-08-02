@@ -35,7 +35,7 @@ piece by piece.
 ### `[ /contact ]`
 
 
-> Email: [tr3sor [@] pm.me](mailto:tr3sor@pm.me)
+> Email: [tr3sor@pm.me](mailto:tr3sor  pm.me)
 > 
 > Website: [tr3sor.win](https://www.tr3sor.win)
 > 
